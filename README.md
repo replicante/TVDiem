@@ -4,7 +4,7 @@ A IMDB crawler build in Python to scrape episodes air dates --episode lists by d
 
 ## Saving the results
 
-If you prefer to save results in a text file, you can run:
+If you prefer to save results in a text file, you can run from the terminal:
 
 ```
 python showdate.py > file.txt
